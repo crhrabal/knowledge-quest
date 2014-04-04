@@ -17,3 +17,4 @@ I don't plan on venturing from these four sources of docs. I'm using git for thi
 
 Any rails apps and example pieces of code I might write to test my knowledge will also be up here. Feel free to follow along, make comments, change incorrect things, or show me better ways of writing code.
 
+COMMIT OFTEN, PERFECT LATER, PUBLISH ONCE
