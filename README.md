@@ -9,6 +9,8 @@ http://rubyonrails.org/documentation
 
 http://ruby.learncodethehardway.org/
 
+http://ruby-doc.org/
+
 http://git-scm.com/book
 
 I don't plan on venturing from these three sources of docs. I'm using git for this so I can start to use git in a test-friendly project, focusing on documentation. 
