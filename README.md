@@ -5,7 +5,7 @@ Currently Learning Ruby on Rails and Git...Stay Tuned
 
 To get started..Documentation:
 
-http://rubyonrails.org/documentation
+http://rubyonrails.org/documentation - This points to a couple different areas of documentation, so be prepared to read a lot.
 
 http://ruby.learncodethehardway.org/
 
