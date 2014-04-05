@@ -1,0 +1,17 @@
+**Getting Started**
+
+I don't know what the preferred way of setting up a ruby on rails environment. I'm following the Rails documentation,
+as well as using Ubuntu 14.04. There might be multiple ways to skin a cat, but this is how I'm going to do things while I
+learn. Feel free to correct me if you find anything could be improved.
+
+Type this in a terminal:
+
+* sudo apt-get install ruby-rails-4.0 libsqlite3-dev sqlite3 nodejs apache2 git
+* mkdir rubyrailsprojects
+* cd rubyrailprojects
+* rails new knowledge-quest
+* bundle install
+* cd knowledge-quest
+* bundle
+* rails server
+
