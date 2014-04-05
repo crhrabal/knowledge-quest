@@ -16,6 +16,6 @@ Type this in a terminal:
 * rails server
 
 Environment is read to go. View it in a browser at http://IpAdress:3000
-
+-- You should see a "You're riding Ruby on Rails" message.
 
 
